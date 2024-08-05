@@ -8,7 +8,7 @@
     <ol>
         <li>
             Clone the repo:
-            <pre><code>git clone git@github.com:00-Shreyas-00/Shreyas_FDS_Lab_Experiments.git</code></pre>
+            <pre><code>git clone https://github.com/00-Shreyas-00/Shreyas_FDS_Lab_Experiments.git</code></pre>
         </li>
         <li>
             Navigate to the project directory:
