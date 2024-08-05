@@ -17,6 +17,7 @@
         <li>
             Run the code (good luck):
             <pre><code>python3 exp1_-_set_operations</code></pre>
+            <pre><code>g++ exp7_-_Student_Club_SSL.cpp</code></pre>
         </li>
     </ol>
 
