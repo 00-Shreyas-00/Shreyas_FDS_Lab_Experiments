@@ -16,8 +16,7 @@
         </li>
         <li>
             Install dependencies (if there are any):
-            <pre><code># for example, if using Python
-            pip install -r requirements.txt</code></pre>
+            <pre><code>pip install -r requirements.txt</code></pre>
         </li>
         <li>
             Run the code (good luck):
