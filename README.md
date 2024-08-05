@@ -1,5 +1,5 @@
-<h1>The Rebellious Engineer's Lab Practicals</h1>
-<p>Welcome to the chaos that is my last year's engineering lab practicals. Proceed at your own risk.</p>
+<h1>FDS Lab Practicals</h1>
+<p>Welcome to the chaos that is my second year's engineering lab practicals. Proceed at your own risk.</p>
 
 <h2 id="introduction">Introduction</h2>
 <p>So you want to see my code, huh? Well, here it is. This repository contains all the lab practicals I somehow managed to do last year. It's not perfect, but it works (mostly). Dive in if you dare.</p>
