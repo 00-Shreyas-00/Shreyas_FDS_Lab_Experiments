@@ -8,11 +8,11 @@
     <ol>
         <li>
             Clone the repo:
-            <pre><code>git clone https://github.com/username/rebellious-engineer-lab-practicals.git</code></pre>
+            <pre><code>git clone git@github.com:00-Shreyas-00/Shreyas_FDS_Lab_Experiments.git</code></pre>
         </li>
         <li>
             Navigate to the project directory:
-            <pre><code>cd rebellious-engineer-lab-practicals</code></pre>
+            <pre><code>cd SHREYAS_FDS_LAB_EXPERIMENTS</code></pre>
         </li>
         <li>
             Install dependencies (if there are any):
@@ -20,7 +20,7 @@
         </li>
         <li>
             Run the code (good luck):
-            <pre><code>python practical1.py</code></pre>
+            <pre><code>python3 exp1_-_set_operations</code></pre>
         </li>
     </ol>
 
